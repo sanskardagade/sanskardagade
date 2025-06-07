@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Dagade</h1>
 <h3 align="center">A passionate full-stack developer from India, turning ideas into impactful solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskardagade&label=Profile%20views&color=0e75b6&style=flat" alt="sanskardagade" /> </p>
+
 
 - 🔭 I’m currently working on [MoM_Generator](https://github.com/sanskardagade/Meeting-of-the-Minutes-MoM-Generator)
 

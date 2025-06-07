@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskar Dagade</h1>
-<h3 align="center">A passionate full-stack developer from India, turning ideas into impactful solutions.</h3>
+<h3 align="center">A passionate full-stack developer, turning ideas into impactful solutions.</h3>
 
 
 

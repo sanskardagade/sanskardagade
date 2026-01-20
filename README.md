@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [MoM_Generator](https://github.com/sanskardagade/Meeting-of-the-Minutes-MoM-Generator)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanskardagade](https://github.com/sanskardagade)
 
 - 📫 How to reach me **sanskardagade07@gmail.com**
 

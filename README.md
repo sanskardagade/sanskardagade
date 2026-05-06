@@ -1,82 +1,117 @@
 <div align="center">
 
-```
-░██████╗░█████╗░███╗░░██╗░██████╗██╗░░██╗░█████╗░██████╗░
-██╔════╝██╔══██╗████╗░██║██╔════╝██║░██╔╝██╔══██╗██╔══██╗
-╚█████╗░███████║██╔██╗██║╚█████╗░█████═╝░███████║██████╔╝
-░╚═══██╗██╔══██║██║╚████║░╚═══██╗██╔═██╗░██╔══██║██╔══██╗
-██████╔╝██║░░██║██║░╚███║██████╔╝██║░╚██╗██║░░██║██║░░██║
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+```txt
+███████╗ █████╗ ███╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗████╗  ██║██╔════╝██║ ██╔╝██╔══██╗██╔══██╗
+███████╗███████║██╔██╗ ██║██████╗ █████╔╝ ███████║██████╔╝
+╚════██║██╔══██║██║╚██╗██║╚════██╗██╔═██╗ ██╔══██║██╔══██╗
+███████║██║  ██║██║ ╚████║███████║██║  ██╗██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `turning ideas into impactful solutions` · full-stack engineer · pune, india
+### `Full Stack Engineer` · `Backend Developer` · `AI & IoT Builder`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+web+applications;MERN+Stack+%7C+TypeScript+%7C+GraphQL;Open+to+exciting+opportunities)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Building+impactful+software+solutions;MERN+Stack+%7C+TypeScript+%7C+Backend+Development;AI+%2B+IoT+Projects+%7C+Competitive+Programming;Always+learning+something+new" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-dagade-6093a025b)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sanskardagade)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sanskardagade07)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskardagade07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanskardagade)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sanskardagade07/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sanskardagade07)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskardagade07@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-```typescript
-const sanskar: Developer = {
-  name: "Sanskar Dagade",
-  location: "Pune, India 🇮🇳",
-  role: "Full-Stack Developer",
-  languages: ["TypeScript", "JavaScript", "C++", "PHP"],
-  stack: {
-    frontend: ["React", "HTML5", "CSS3", "Bootstrap", "D3.js"],
-    backend: ["Node.js", "Express", "GraphQL", "PHP"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-  },
-  currentFocus: "Building impactful, production-grade web applications",
-  openTo: ["Collaborations", "Freelance", "Full-time Roles"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-};
-```
+I'm a **Computer Engineering** student passionate about building scalable systems, AI-powered applications, and impactful full-stack products.
+
+- ⚡ Strong focus on **Backend Development, MERN Stack & System Design**
+- 🧠 Solving DSA & Competitive Programming problems consistently
+- 🤖 Building AI + IoT based real-world projects
+- 🚀 Interested in scalable architectures & production-grade applications
+- 🌍 Love building tech that solves real-world problems
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
-<div align="center">
+| Category | Technologies |
+|---|---|
+| **Languages** | C++ · JavaScript · TypeScript · Python · PHP · C |
+| **Frontend** | React · Next.js · HTML5 · CSS3 · Bootstrap · Tailwind CSS |
+| **Backend** | Node.js · Express.js · GraphQL · REST APIs · JWT |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Firebase · NeonDB |
+| **Tools & DevOps** | Git · GitHub · Postman · VS Code · Docker (Basics) |
+| **Core Areas** | Full Stack Development · Backend Engineering · DSA · AI · IoT |
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+## 🔧 Featured Projects
 
-**Backend & Databases**
+### 🏫 CampusConnect — AI Smart Campus Management System
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+An AI-powered smart campus platform focused on automation, analytics, and student-faculty management.
 
-**Languages**
+- ✅ Face Recognition Attendance System
+- ✅ Faculty & Student Tracking
+- ✅ Stress Management & Analytics
+- ✅ Smart Notifications & Leave Management
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+`React` `Express.js` `MongoDB` `AI` `IoT`
 
-</div>
+---
+
+### 🎯 DreamCoder — Competitive Coding Contest Platform
+
+A coding contest platform inspired by Dream11 where users compete in DSA battles and contests.
+
+- ✅ Contest-based DSA platform
+- ✅ Ranking & Leaderboard System
+- ✅ Real-time competition environment
+- ✅ Built for scalability & engagement
+
+`MERN Stack` `TypeScript` `MongoDB`
+
+---
+
+### 💊 Meds4You — Generic Medicine Platform
+
+A modern healthcare-focused medicine platform built with a clean UI and scalable backend.
+
+- ✅ Generic Medicine Ordering System
+- ✅ Responsive modern UI
+- ✅ Secure Authentication & APIs
+- ✅ Production-focused architecture
+
+`React` `Node.js` `MongoDB`
+
+---
+
+### 🌬️ Railway Windmill IoT Project
+
+Hackathon project focused on generating renewable energy using windmills installed near railway tracks.
+
+- ✅ Ultrasonic Sensor Integration
+- ✅ Renewable Energy Concept
+- ✅ IoT-based Smart Monitoring
+- ✅ Built during National Hackathon
+
+`IoT` `Sensors` `Embedded Systems`
+
+---
+
+## 🏆 Achievements
+
+| 🚀 | Solved **500+ DSA Problems** across coding platforms |
+|---|---|
+| 💻 | Active **LeetCode & Codeforces** problem solver |
+| 🏅 | Participated in multiple Hackathons & Tech Events |
+| ⚡ | Built multiple Full Stack & AI-based Projects |
+| 🎯 | Focused on cracking top Product-Based Companies |
 
 ---
 
@@ -85,6 +120,7 @@ const sanskar: Developer = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanskardagade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardagade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
@@ -97,37 +133,29 @@ const sanskar: Developer = {
 
 ---
 
-## 🏆 Competitive Programming
+## 🧠 Competitive Programming
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanskardagade07?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/sanskardagade07)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanskardagade07?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/sanskardagade07/)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🎓 Education
 
-<div align="center">
-
-> *"The best code is the code that solves real problems for real people."*
-
-I'm always open to interesting projects, collaboration opportunities, and meaningful conversations. Whether you have a wild idea or a production problem — let's talk.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-dagade-6093a025b)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskardagade07@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanskardagade&style=flat-square&color=6366f1&label=profile+views)
-
-</div>
+**Dr. D.Y. Patil Institute of Technology**, Pune, Maharashtra  
+`B.E. Computer Engineering · 2023–2027`
 
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ from Pune, India</sub>
+
+### ⚡ "Building systems that create real impact."
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanskardagade&style=for-the-badge&color=6366f1)
+
 </div>

@@ -9,9 +9,9 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `Full Stack Engineer` · `Backend Developer` · `Competitive Programmer`
+### `Full Stack Engineer` · `Backend Developer` · `AI & IoT Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Building+impactful+software+solutions;MERN+Stack+%7C+TypeScript+%7C+Backend+Development;System+Design+%7C+Scalable+Applications;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Building+impactful+software+solutions;MERN+Stack+%7C+TypeScript+%7C+Backend+Development;AI+%2B+IoT+Projects+%7C+Competitive+Programming;Always+learning+something+new" />
 
 <br/>
 
@@ -25,98 +25,97 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Engineering student passionate about building scalable systems, intelligent software solutions, and impactful full-stack products.
+I'm a **Computer Engineering** student passionate about building scalable systems, AI-powered applications, and impactful full-stack products.
 
-- Strong focus on Backend Development, MERN Stack & System Design
-- Solving DSA & Competitive Programming problems consistently
-- Interested in scalable architectures & production-grade applications
-- Love building tech that solves real-world problems
-- Constantly learning modern technologies & backend engineering concepts
+- ⚡ Strong focus on **Backend Development, MERN Stack & System Design**
+- 🧠 Solving DSA & Competitive Programming problems consistently
+- 🤖 Building AI + IoT based real-world projects
+- 🚀 Interested in scalable architectures & production-grade applications
+- 🌍 Love building tech that solves real-world problems
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 | Category | Technologies |
 |---|---|
-| Languages | C++ · JavaScript · TypeScript · Python · PHP · C |
-| Frontend | React · Next.js · HTML5 · CSS3 · Bootstrap · Tailwind CSS |
-| Backend | Node.js · Express.js · GraphQL · REST APIs · JWT |
-| Databases | MongoDB · PostgreSQL · MySQL · Firebase · NeonDB |
-| Tools & DevOps | Git · GitHub · Postman · VS Code · Docker |
-| Core Areas | Full Stack Development · Backend Engineering · DSA · System Design |
+| **Languages** | C++ · JavaScript · TypeScript · Python · PHP · C |
+| **Frontend** | React · Next.js · HTML5 · CSS3 · Bootstrap · Tailwind CSS |
+| **Backend** | Node.js · Express.js · GraphQL · REST APIs · JWT |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Firebase · NeonDB |
+| **Tools & DevOps** | Git · GitHub · Postman · VS Code · Docker (Basics) |
+| **Core Areas** | Full Stack Development · Backend Engineering · DSA · AI · IoT |
 
 ---
 
-## Featured Projects
+## 🔧 Featured Projects
 
-### CampusConnect — Smart Campus Management System
+### 🏫 CampusConnect — AI Smart Campus Management System
 
-A smart campus platform focused on automation, analytics, and student-faculty management.
+An AI-powered smart campus platform focused on automation, analytics, and student-faculty management.
 
-- Face Recognition Attendance System
-- Faculty & Student Tracking
-- Stress Management & Analytics
-- Smart Notifications & Leave Management
+- ✅ Face Recognition Attendance System
+- ✅ Faculty & Student Tracking
+- ✅ Stress Management & Analytics
+- ✅ Smart Notifications & Leave Management
 
-`React` `Express.js` `MongoDB` `IoT`
+`React` `Express.js` `MongoDB` `AI` `IoT`
 
 ---
 
-### DreamCoder — Competitive Coding Contest Platform
+### 🎯 DreamCoder — Competitive Coding Contest Platform
 
 A coding contest platform inspired by Dream11 where users compete in DSA battles and contests.
 
-- Contest-based DSA platform
-- Ranking & Leaderboard System
-- Real-time competition environment
-- Built for scalability & engagement
+- ✅ Contest-based DSA platform
+- ✅ Ranking & Leaderboard System
+- ✅ Real-time competition environment
+- ✅ Built for scalability & engagement
 
 `MERN Stack` `TypeScript` `MongoDB`
 
 ---
 
-### Meds4You — Generic Medicine Platform
+### 💊 Meds4You — Generic Medicine Platform
 
 A modern healthcare-focused medicine platform built with a clean UI and scalable backend.
 
-- Generic Medicine Ordering System
-- Responsive modern UI
-- Secure Authentication & APIs
-- Production-focused architecture
+- ✅ Generic Medicine Ordering System
+- ✅ Responsive modern UI
+- ✅ Secure Authentication & APIs
+- ✅ Production-focused architecture
 
 `React` `Node.js` `MongoDB`
 
 ---
 
-### Railway Windmill Project
+### 🌬️ Railway Windmill IoT Project
 
 Hackathon project focused on generating renewable energy using windmills installed near railway tracks.
 
-- Ultrasonic Sensor Integration
-- Renewable Energy Concept
-- Smart Monitoring System
-- Built during National Hackathon
+- ✅ Ultrasonic Sensor Integration
+- ✅ Renewable Energy Concept
+- ✅ IoT-based Smart Monitoring
+- ✅ Built during National Hackathon
 
 `IoT` `Sensors` `Embedded Systems`
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-| | |
+| 🚀 | Solved **500+ DSA Problems** across coding platforms |
 |---|---|
-| Solved 500+ DSA Problems | Across coding platforms |
-| Competitive Programming | Active LeetCode & Codeforces solver |
-| Hackathons | Participated in multiple tech events |
-| Full Stack Projects | Built scalable backend-focused applications |
-| Career Goal | Focused on product-based companies |
+| 💻 | Active **LeetCode & Codeforces** problem solver |
+| 🏅 | Participated in multiple Hackathons & Tech Events |
+| ⚡ | Built multiple Full Stack & AI-based Projects |
+| 🎯 | Focused on cracking top Product-Based Companies |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -134,7 +133,7 @@ Hackathon project focused on generating renewable energy using windmills install
 
 ---
 
-## Competitive Programming
+## 🧠 Competitive Programming
 
 <div align="center">
 
@@ -144,7 +143,7 @@ Hackathon project focused on generating renewable energy using windmills install
 
 ---
 
-## Education
+## 🎓 Education
 
 **Dr. D.Y. Patil Institute of Technology**, Pune, Maharashtra  
 `B.E. Computer Engineering · 2023–2027`
@@ -153,7 +152,7 @@ Hackathon project focused on generating renewable energy using windmills install
 
 <div align="center">
 
-Building systems that create real impact.
+### ⚡ "Building systems that create real impact."
 
 <br/>
 
